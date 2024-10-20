@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(222, 234, 242);
+    font-family:andale mono, monospace;
+}
+
+nav{
+    position: fixed;
+    top:0;
+    background-color:  rgb(229, 234, 236);
+}
+
+nav li{
+    display: inline;
+    padding: 12px;
+    border-right: 1px solid #000000;
+}
+
+nav li:hover{
+    background-color: rgb(189, 216, 233);
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 70px;
+}
+
+table{
+    text-align: center;
+}
+
+td {
+    padding: 18px;
+    background-color: rgb(209, 227, 238);
+}
+
+th{
+    
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    background-color: rgb(209, 227, 238);
+}
+
+.hobby{
+    font-weight: bold;
+}
+.hfoot{
+    text-align: left;
+    margin-top: 120px;
+}
